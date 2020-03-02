@@ -18,6 +18,14 @@
     //   "error",
     //   "always"
     // ],
+    "object-property-newline": "error",
+    "object-curly-newline": [
+      "error",
+      {
+        "ImportDeclaration": "always",
+        "ExportDeclaration": "always"
+      }
+    ],
     "semi": [
       "error",
       "always"
