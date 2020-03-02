@@ -48,3 +48,6 @@ export const listings: Listing[] = [
     rating: 3
   }
 ];
+
+
+export const one = 1;
