@@ -1,0 +1,8 @@
+node_modules*
+build
+*.svg
+*.ico
+.gitignore
+*.md
+*.log
+*.lock
