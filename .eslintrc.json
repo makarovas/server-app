@@ -13,6 +13,15 @@
   "rules": {
     "indent": "off",
     "@typescript0-eslint/indent": "off",
-    "@typescript-eslint/explicit-function-return-type": "off"
+    "@typescript-eslint/explicit-function-return-type": "off",
+    // "comma-dangle": [
+    //   "error",
+    //   "always"
+    // ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "no-trailing-spaces": "error"
   }
 }
