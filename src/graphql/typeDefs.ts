@@ -15,9 +15,11 @@ type Listing {
   numOfBeds: Int!,
   rating: Int!,
   }
+
   type Query {
     listing: [Listing!]!
   }
+  
   type Mutation {
     deleteListing(id: ID!): Listing!
   }
